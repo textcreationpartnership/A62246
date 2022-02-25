@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A royall loyall poem</title>
+            <author>Saunderson, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62246</idno>
+            <idno type="STC">Wing S758</idno>
+            <idno type="STC">ESTC R7840</idno>
+            <idno type="EEBO-CITATION">11902787</idno>
+            <idno type="OCLC">ocm 11902787</idno>
+            <idno type="VID">50597</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62246)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50597)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 511:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A royall loyall poem</title>
+                  <author>Saunderson, Thomas.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Place ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: By Tho. Saunderson gent.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>On the restoration of Charles II.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50597:1"/>
+            <pb facs="tcp:50597:1"/>
+            <p>A ROYALL LOYALL POEM.</p>
+            <p>
+               <hi>LONDON,</hi>
+Printed for <hi>W. Place,</hi> and are to be ſold at his Shop at <hi>Grayes-Inne</hi> Gate in <hi>Holborne,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:50597:2"/>
+            <pb n="3" facs="tcp:50597:2"/>
+            <head>A Royall Loyall POEM.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg>LL hayle Great KING, whom Gods Almighty hand,</l>
+               <l>Hath in great Streights preſerv'd by Sea and Land;</l>
+               <l>And hath kept firm thy Loyall Sub<g ref="char:EOLhyphen"/>jects hearts,</l>
+               <l>Rejoycing in oppreſsions dyreſt ſmarts:</l>
+               <l>And that thy Foes the vaſt Worlds wonder ceaſe</l>
+               <l>Their tumultuous waves, and ſue for Peace:</l>
+               <l>What can eclips our joyes ſo bright, ſo high,</l>
+               <l>Settled on th' Baſis of Divinity:</l>
+               <l>For here's no new Uſurper to make good</l>
+               <l>This treaſonable Claym through ſtreams of blood:</l>
+               <l>
+                  <pb n="4" facs="tcp:50597:3"/>
+Sparing no Engliſh Subjects to maintain</l>
+               <l>The profuſe Ryot in his Rebellious raign;</l>
+               <l>No heyre not able to ſupport the weight</l>
+               <l>Of Government either of Church or State:</l>
+               <l>Nay, here is no pretender to the known</l>
+               <l>Right Great <hi>Charles</hi> hath to his three Kingdoms</l>
+               <l>No worthy Gentleman doth envy that</l>
+               <l>Our high born Prince ſhould have command of what Crown:</l>
+               <l>His birth-right gives him, here's none thinks that he</l>
+               <l>Could rule ſo wiſely as his <hi>Majesty;</hi>
+               </l>
+               <l>Here's no contention, onely to outvy</l>
+               <l>Each in brave acts of liberality,</l>
+               <l>Amazing all to ſee, our widdowed Land</l>
+               <l>Eſpous'd to joy ſo ſoon, by a <hi>Monks</hi> Hand.</l>
+               <l>Preſents on Preſents paſs by faithfull hearts;</l>
+               <l>Not equall to <hi>My</hi> mind nor his deſerts:</l>
+               <l>And theſe from loyall, Royall, Soules whom guilt</l>
+               <l>Had never ſtaind, of blood unjuſtly ſpilt.</l>
+               <l>Had <hi>Fleetwod, Baxter, Haſlrig, and Vane,</hi>
+               </l>
+               <l>
+                  <hi>Tichbourn and Ireton,</hi> with that curſed trayne</l>
+               <l>Disgorg d theyr full cram d cheſts unjuſtly got,</l>
+               <l>And then like <hi>Judas</hi> hang d themſelves, 't had not.</l>
+               <l>Been half ſo wel. No: let them dying live,</l>
+               <l>And periſh by degrees: let Juſtice give</l>
+               <l>Them but their due: How will their concience gripe</l>
+               <l>Their perplexed Soules? And when grown ripe,</l>
+               <l>
+                  <pb n="5" facs="tcp:50597:3"/>
+For vengeance, let tortures lead them to the Tree,</l>
+               <l>Where this accurſed fruit may hanged be;</l>
+            </lg>
+            <lg>
+               <l>Too tedious here to read their Elegy.</l>
+               <l>Oh when to <hi>Oliver</hi> they tidings bring</l>
+               <l>Of their fall'n State, and Glories of our <hi>King,</hi>
+               </l>
+               <l>How will his hot Noſe ſwell, and <hi>Bradſhaw</hi> call,</l>
+               <l>And curſe each other for each others fall?</l>
+               <l>There let them curſe and howle with hideous yells,</l>
+               <l>Whilſt we with Bone-fires ſhouts, and ringing Bells,</l>
+               <l>Heighten the hatred that their Quaking friends</l>
+               <l>Conceal, if poſſible, for Politick ends:</l>
+               <l>And that will damn them too, whilſt ſafely we</l>
+               <l>May pray for <hi>Charles</hi> our King and Progeny,</l>
+               <l>And drink a hearty cup toth Generall,</l>
+               <l>Who bravely, juſtly, wiſely fool'd them all.</l>
+               <l>And with one word <hi>Phanatick</hi> ſtruck them dumb,</l>
+               <l>Some ſimply ask d if it were Scotch, and ſome</l>
+               <l>Whiſpered iſ't not Spaniſh, ſome Greek, but moſt</l>
+               <l>Sayd he was miſtaken and would have it croſt</l>
+               <l>Out, and put in Fantaſtick, Schiſmatick,</l>
+               <l>Or Anabaptiſt, Browniſt, Heretick,</l>
+               <l>Shaking Sir <hi>Harry Vanes</hi> fift Monarchy,</l>
+               <l>Or weeping <hi>Fleetwoods</hi> quaking Anarchy,</l>
+               <l>
+                  <hi>H. Martins</hi> Adamites, Independents,</l>
+               <l>Sawcy Lay-Elders, Super-Intendents,</l>
+               <l>
+                  <pb n="6" facs="tcp:50597:4" rendition="simple:additions"/>
+Any thing or all but that one ſtrange word.</l>
+               <l>Coyn'd with an angry Stamp ſhould all afford,</l>
+               <l>That <hi>Oliver</hi> or <hi>Lambert</hi> in their breaſt</l>
+               <l>Contain'd, troubles them more then all the reſt,</l>
+               <l>Making their <hi>Chimaera</hi> reformation,</l>
+               <l>Ridiculous and out of faſhion;</l>
+               <l>And names of <hi>Common-wealth</hi> and <hi>Nation</hi> turn'd</l>
+               <l>To the right ſtyle, <hi>Kingdom,</hi> which long hath mournd,</l>
+               <l>Commanding reverence to Gods holy Word,</l>
+               <l>Read in the Church, by them ſo much abhord:</l>
+               <l>When Preach'd by none but Orthodox Divines,</l>
+               <l>Whoſe life together with the Words light ſhines:</l>
+               <l>Now Subjects large Eſtates ſo long detaind</l>
+               <l>From the right Owners, ſhall by <hi>Right</hi> be gaind:</l>
+               <l>And Univerſities and Innes of Court,</l>
+               <l>
+                  <hi>Englands</hi> great honour in the Worlds report,</l>
+               <l>Peſtred ſo long with Sons of the Committee,</l>
+               <l>Excize-men, Captains, or at beſt ſome City</l>
+               <l>Heyres: ſhall with Knights and Squires Sons be planted,</l>
+               <l>And the Grave <hi>Benchers</hi> who long have wanted,</l>
+               <l>An Audience fit for <hi>Readings,</hi> now rejoyce,</l>
+               <l>To employ their wits &amp; wealth for th'Publick voice,</l>
+               <l>When <hi>Magna Charta,</hi> the known Lawes of th'Land,</l>
+               <l>Is ſpoke and writ in the old Tongue and Hand,</l>
+               <l>That it would prove a good Monopoly,</l>
+               <l>To teach Maſters and Clarks their</l>
+               <l>
+                  <pb n="7" facs="tcp:50597:4"/>
+When our new coyne (all that was mine is gone)</l>
+               <l>Shall bear the Kings Face and Superſcription;</l>
+               <l>When noble <hi>Spain</hi> ſhall bring her Indies wealth</l>
+               <l>Unto our <hi>King,</hi> wiſhing him peace and health;</l>
+               <l>All Princes fearing our <hi>Kings</hi> potent Strength,</l>
+               <l>Shall court him to an Union: At length</l>
+               <l>I fear the <hi>Gentile</hi> and unbeleiving <hi>Jew,</hi>
+               </l>
+               <l>To be receiv'd into our Church will ſue:</l>
+               <l>And then the World will end ſo ſoon, that we</l>
+               <l>Terrene joyes longer ſhall not live to ſee:</l>
+               <l>This is not Fancy: for what can ſeem ſtrange,</l>
+               <l>After this great and unexpected change.</l>
+               <l>Reader your pardon, for ſince the King is given</l>
+               <l>A Subject for my Pen, I could reach Heaven</l>
+               <l>With numerous lines. So may your Prayers with mine</l>
+               <l>For a continuance of his Life and Line.</l>
+            </lg>
+            <byline>By <hi>Tho. Saunderſon</hi> Gent.</byline>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
